@@ -1,0 +1,17 @@
+.tab-list-item {
+  margin: 10px;
+}
+
+.button {
+  background-color: transparent;
+  border-width: 0px;
+  color: #7b8794;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.active-btn {
+  border-bottom-width: 2px;
+  border-color: #2563eb;
+  color: #2563eb;
+}
